@@ -1,9 +1,5 @@
 # Exploratory Data Analysis of Sales Dataset (2019)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Ayush-srivastava504/exploratory-sales-analysis)
-![GitHub stars](https://img.shields.io/github/stars/Ayush-srivastava504/exploratory-sales-analysis?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Ayush-srivastava504/exploratory-sales-analysis?style=social)
-
 ## 📌 About the Project
 
 This project performs **Exploratory Data Analysis (EDA)** on a real-world **Sales dataset from 2019** using **Python, Pandas, and Matplotlib**.  
