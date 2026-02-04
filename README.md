@@ -83,6 +83,6 @@ This project was developed as a **real-world, business-focused analytics case st
   Data Analyst | Aspiring Data Engineer<br><br>
   📧 ayushwww4@email.com &nbsp;|&nbsp;
   🔗 <a href="https://www.linkedin.com/in/ayush-srivastava-2b6904262/">LinkedIn</a> &nbsp;|&nbsp;
-   <a href="https://github.com/Ayush-srivastava504">GitHub</a>
+   🔗<a href="https://github.com/Ayush-srivastava504">GitHub</a>
 </p>
 
